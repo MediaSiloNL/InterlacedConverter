@@ -7,7 +7,7 @@ This tool will convert any input file to an 1080 50i 16Mbit MPEG4 file.
 
 I know MPEG4 compression is not the best but if the footage was NTSC for example in the first place, that 16Mbit compression should be the least of your problems.
 
-[Download Interlaced Converter! (Latest build)](Builds/InterlacedConverter_Latest.zip)
+[Download Interlaced Converter! (Latest build)](https://github.com/MediaSiloNL/InterlacedConverter/raw/master/Builds/InterlacedConverter_Latest.zip)
 
 ## Installation:
 - Download the Zip file and extract.
