@@ -7,6 +7,12 @@ This tool will convert any input file to an 1080 50i 16Mbit MPEG4 file.
 
 I know MPEG4 compression is not the best but if the footage was NTSC for example in the first place, that 16Mbit compression should be the least of your problems.
 
+## Installation:
+- Download the Zip file and extract.
+- Run "InterlacedConverter.exe"
+- It should run without any extra installs...
+- (The engine file is a specific compiled FFMPEG branch)
+
 ## Minimal Requirements
 - Windows 7
 
