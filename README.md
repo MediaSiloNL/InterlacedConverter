@@ -21,3 +21,5 @@ I know MPEG4 compression is not the best but if the footage was NTSC for example
 - Transcoding presets
 - Progress Bar
 - Full NTSC-PAL conversion
+
+![alt tag](https://github.com/MediaSiloNL/InterlacedConverter/blob/master/Readme/InterlacedConverter_1.0.5.1_Screenshot.png)
